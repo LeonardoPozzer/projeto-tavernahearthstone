@@ -2,10 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-@font-face {
-    font-family: 'Belwe';
-    src: url('../fontes/belwe-bold-bt.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 *{
     margin: 0px;
@@ -22,7 +19,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
-    --fonte-destaque2: 'Belwe', cursive;
+    --fonte-destaque2: 'Anton', sans-serif;
 }
 
 body{
