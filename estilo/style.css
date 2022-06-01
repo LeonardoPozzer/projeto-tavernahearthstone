@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Belwe';
-    src: url('/fontes/belwe-bold-bt.ttf');
+    src: url('../fontes/belwe-bold-bt.ttf');
 }
 
 *{
